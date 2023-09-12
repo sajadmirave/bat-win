@@ -34,6 +34,7 @@ bat-cat filename --color =color_name
 colors:
 
 | color|
+|---|
 | red  |
 | yellow  |
 | green  |
