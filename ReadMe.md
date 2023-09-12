@@ -25,3 +25,13 @@ output like this:
 .git          docs          info.txt      ReadMe.md    
 setup.py      src
 ```
+
+### read file
+```bash
+bat-cat filename --color =color_name
+```
+
+| color|
+|---|
+| red  |
+|---|
