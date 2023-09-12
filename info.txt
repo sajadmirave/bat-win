@@ -1,0 +1,2 @@
+set alians:
+doskey myalias=mybatchfile.bat
