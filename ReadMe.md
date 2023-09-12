@@ -13,3 +13,15 @@ python setup.py
 ```
 
 # Commands
+
+### show file list
+```bash
+bat-ls
+```
+
+output like this:
+
+```bash
+.git          docs          info.txt      ReadMe.md    
+setup.py      src
+```
