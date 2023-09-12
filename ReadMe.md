@@ -31,7 +31,25 @@ setup.py      src
 bat-cat filename --color =color_name
 ```
 
+colors:
+
 | color|
 |---|
 | red  |
 |---|
+| yellow  |
+|---|
+| green  |
+|---|
+| magenta  |
+|---|
+| cyan  |
+|---|
+| blue  |
+|---|
+
+output like this:
+
+```bash
+Hello World
+```
