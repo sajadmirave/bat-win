@@ -1,6 +1,7 @@
+#!/usr/bin/env python
 import sys
 import os
-from tabulate import tabulate
+# from tabulate import tabulate
 
 # Add the parent directory (commands/Ls) and the project directory to sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
